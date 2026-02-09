@@ -2,7 +2,7 @@ const settings = {
   packname: '𓆩𝐉𝐄𝐑𝐑𝐘 𝐌𝐃𓆪',
   author: '‎',
   botName: "𓆩𝐉𝐄𝐑𝐑𝐘 𝐌𝐃𓆪",
-  botOwner: 'SILVER', // Your name
+  botOwner: '𓆩 𝙅𝙀𝙍𝙍𝙔 𝙆𝙄𝙉𝙂 𓆪', // Your name
   ownerNumber: '359876789681', //Set your number here without + symbol, just add country code & number without any space
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
   commandMode: "public",
