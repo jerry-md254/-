@@ -155,8 +155,8 @@ const channelInfo = {
         forwardingScore: 1,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
-            newsletterJid: '120363279142099991@newsletter',
-            newsletterName: 'JERRY-KING',
+            newsletterJid: '120363404160725764@newsletter',
+            newsletterName: '𝗝𝘌𝗥𝗥𝗬 𝗫 𝗖𝗬𝗕𝗘𝗥 💀🚩',
             serverMessageId: -1
         }
     }
