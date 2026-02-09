@@ -150,7 +150,7 @@ async function startXeonBotInc() {
                             forwardingScore: 1,
                             isForwarded: true,
                             forwardedNewsletterMessageInfo: {
-                                newsletterJid: '0029Vb6iopUDzgTJuzPCk32V@newsletter',
+                                newsletterJid: '120363404160725764@newsletter',
                                 newsletterName: '𝗝𝘌𝗥𝗥𝗬 𝗫 𝗖𝗬𝗕𝗘𝗥 💀🚩',
                                 serverMessageId: -1
                             }
@@ -259,7 +259,7 @@ async function startXeonBotInc() {
                         forwardingScore: 1,
                         isForwarded: true,
                         forwardedNewsletterMessageInfo: {
-                            newsletterJid: '0029Vb6iopUDzgTJuzPCk32V@newsletter',
+                            newsletterJid: '120363404160725764@newsletter',
                             newsletterName: '𝗝𝘌𝗥𝗥𝗬 𝗫 𝗖𝗬𝗕𝗘𝗥 💀🚩',
                             serverMessageId: -1
                         }
